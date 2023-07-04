@@ -72,7 +72,7 @@ To run the file within your test project, right click on your Python file inside
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.1/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.9/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -106,13 +106,13 @@ This API uses `Custom Authentication`.
 
 ## List of APIs
 
-* [Pet](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.1/doc/controllers/pet.md)
-* [Store](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.1/doc/controllers/store.md)
-* [User](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.1/doc/controllers/user.md)
+* [Pet](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.9/doc/controllers/pet.md)
+* [Store](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.9/doc/controllers/store.md)
+* [User](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.9/doc/controllers/user.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.1/doc/utility-classes.md)
-* [HttpResponse](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.1/doc/http-response.md)
-* [HttpRequest](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.1/doc/http-request.md)
+* [Utility Classes](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.9/doc/utility-classes.md)
+* [HttpResponse](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.9/doc/http-response.md)
+* [HttpRequest](https://www.github.com/Subtain-Apimatic/first-python-repo/tree/3.2.9/doc/http-request.md)
 
